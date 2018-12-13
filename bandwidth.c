@@ -13,7 +13,7 @@
 
 
 /*
-提取数据信息
+提取数据
 */
 char * praseFields(char *pSrc, char *pField, char *pValue)
 {
