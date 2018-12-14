@@ -10,7 +10,7 @@
 #include "myconnector/include/errmsg.h"
 #include "myconnector/include/mysqld_error.h"
 
-//second git add
+
 
 /*
 提取数据
